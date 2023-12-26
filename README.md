@@ -1,0 +1,1 @@
+This is a linear regression model, performed in python which shows a positive relationship between two variables. The variables were total goals scored and total shots occured in the La Liga season 2022-23.
